@@ -56,7 +56,7 @@ public class DictyPDEGUI {
 
 	int boxSize = 3;
 
-	int l = 100;
+	int l = 200;
 
 	int n = 300;
 
